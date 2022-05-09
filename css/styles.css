@@ -45,7 +45,8 @@ a {
 
 .header-link:hover,
 .header-link:focus,
-.header-contacts a:hover {
+.header-contacts a:hover,
+.header-contacts a:focus {
   color: var(--accent-color);
   /* border-bottom:#2196f3 solid 4px; */
 }
